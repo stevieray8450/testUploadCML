@@ -1,1 +1,1 @@
-testing my upload and commit/push to GitHub
+testing my upload and commit/push to GitHub from command line
